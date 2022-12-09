@@ -1,5 +1,5 @@
 ### Hey there, I'm Sidra :raising_hand:
-#### I am a Developer Advocate @IBM with my key focus areas being Data Science and AI
+#### I am an Associate Technical Trainer @Amazon with my key focus areas being Data Science and AI
 
 - 🔭 I’m currently working on developing some wholesome Data Science solutions.
 - :closed_book: Apart from development, I love dedicating my time towards writing blogs on different tech topics. Check out my work https://medium.com/@sidraahmed
